@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "mybamap-underscore-to-camel-case",
+      "type": "java.lang.String",
+      "description": "Description for mybamap-underscore-to-camel-case."
+  }
+] }
